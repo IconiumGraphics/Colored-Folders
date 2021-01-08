@@ -1,4 +1,3 @@
-# Colored-Folders
 Icon Library
 
 
