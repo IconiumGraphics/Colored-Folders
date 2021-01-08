@@ -1,2 +1,0 @@
-# Colored-Folders
-Icon Library
